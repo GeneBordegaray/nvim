@@ -1,0 +1,12 @@
+.DS_Store
+
+# Neovim caches generated inside config root
+plugin/
+spell/
+swap/
+session/
+undo/
+
+# Lazy.nvim working directories if they ever appear
+lazy/
+
